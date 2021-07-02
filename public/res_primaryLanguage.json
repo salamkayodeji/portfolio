@@ -133,6 +133,38 @@
             "name": "Redis"
           }
         ]
+      },
+      {
+        "title": "What Does Ja Rule Think?: A Magic 8-Ball Tool",
+        "startDate": "2021",
+        "description": "A simple magic 8-ball style game where you ask Ja Rule his thoughts, and he shall answer. Created with React.JS and deployed using AWS Amplify.",
+        "images": [
+          "images/portfolio/jarule/1.png",
+          "images/portfolio/jarule/2.png"
+        ],
+        "url": "https://whatdoesjarulethink.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "MaterialUI"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          }
+        ]
       }
     ],
     "education": [
