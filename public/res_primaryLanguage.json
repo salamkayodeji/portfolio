@@ -165,6 +165,38 @@
             "name": "AWS"
           }
         ]
+      },
+      {
+        "title": "Harmoforce; the Microservice and Front-End",
+        "startDate": "2021",
+        "description": "Harmoforce is a community driven coordinator of validation staking on the Harmony ONE network. This is a microservice which keeps track and records delegators for a given target validator for easier insight into the effective staking pool of Harmoforce. Website created with React.js and deployed via AWS Amplify. Microservice exists as a Python AWS Lambda along with DynamoDB for storage.",
+        "images": [
+          "images/portfolio/harmoforce/1.jpg",
+          "images/portfolio/harmoforce/2.jpg"
+        ],
+        "url": "https://master.d1dludnmzsfi2w.amplifyapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          }
+        ]
       }
     ],
     "education": [
