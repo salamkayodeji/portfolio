@@ -1,0 +1,190 @@
+{
+    "basic_info": {
+      "description_header": "Hi!",
+      "description": "👋 I'm Deji. I'm a Full Stack Software Developer with several years of experience in producing and updating Web applications. Optimized structures and processes to accomplish customer targets and promote company loyalty. Expert in PYTHON programming language",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "COINMAC SMS",
+        "startDate": "2019",
+        "description": "A bulk sms app that helps the users send bulk messages to each other mobile number",
+        "images": [
+          "images/portfolio/coinmacsms/p1.jpg",
+          "images/portfolio/coinmacsms/p2.jpg",
+          "images/portfolio/coinmacsms/p3.jpg"
+        ],
+        "url": "https://coinmac.net/",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-nginx-plain",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "postgresql"
+          }
+        ]
+      },
+      {
+        "title": "COINMAC",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/coinmac/p1.png",
+          "images/portfolio/coinmac/p2.png",
+          "images/portfolio/coinmac/p2.png"
+        ],
+        "url": "https://coinmac.org/",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-nginx-plain",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "GOVLINK SOLUTIONS",
+        "startDate": "2021",
+        "description": "",
+        "images": [
+          "images/portfolio/govlink/p1.png",
+          "images/portfolio/govlink/p2.png",
+          "images/portfolio/govlink/p2.png"
+        ],
+        "url": "https://govlinksolutions.com/",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-nginx-plain",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "NACC ABUJA",
+        "startDate": "2018",
+        "description": "",
+        "images": [
+          "images/portfolio/nacc/p1.png"
+        ],
+        "url": "https://www.naccabuja.org/",
+        "technologies": [
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      }
+    ],
+
+   
+    "experience": [
+      {
+        "company": "COINMAC",
+        "title": "Software Developer",
+        "description": "",
+        "responsibilities" : [
+          "Designed and developed a Search engine optimized (SEO) website for the training arm of the company where prospective clients can search for courses, register for courses, give feedback on courses, and also request for proposal on courses they're interested in while the company has admin privileges to create, update, delete courses and advanced email marketing. URL: https://coinmac.org/.",
+          "Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.",
+          "Being involved in with larger in-house projects to meet our customer's requirements",
+          "Supporting the creation of standardised documentation",
+          "Developing skills and understanding of COINMAC's tech estate and the process",
+          "Developing, testing and supporting current systems",
+          "Responded to support requests from end users and patiently walked individuals through basic troubleshooting tasks which increased sales of units by 20%.",
+          "Administered, supported and monitored databases by proactively resolving database issues and maintaining servers."
+        ],
+        "years": "09.2020 - present",
+        "mainTech": [
+          "Serverless"
+        ],
+        "technologies": [
+          "Agile Development",
+          "DevOps",
+          "AWS",
+          "Django Framework",
+          "Python",
+          "Unit Testing"
+        ]
+      },
+      {
+        "company": "NIGER STATE BOARD OF INTERNAL REVENUE, MINNA, NIGER STATE",
+        "title": "INTERN",
+        "description": "In a fast-paced and dynamic environment, I worked among a team of interns to deliver a service at the best possible quality to all Tax Payers.",
+        "responsibilities": [
+          "Registration of Tax payers for TAX IDENTIFICATION NUMBER (TIN)",
+          "Collected, update and migrated Tax payers’ information.",
+          "Explained technical information in clear terms to non-technical individuals to promote better understanding.",
+          "Sorted and organized materials such as physical files, tracking spreadsheets and reports."
+        ],
+        "years": "08.2018 - 05.2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
+        ]
+      }
+    ]
+}
