@@ -1,21 +1,21 @@
 {
     "basic_info": {
-      "name": "Adam Howells",
-      "titles": [ "Full-stack Developer", "Web Developer", "DevOps Developer", "Serverless Developer", "Mobile App Developer" ],
+      "name": "Salam Ayodeji",
+      "titles": [ "Full-stack Developer", "Web Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/adamisafk",
+          "url": "https://github.com/salamkayodeji",
           "class": "fab fa-github"
         },
         {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/adam-howells-7451b7172/",
+          "url": "https://www.linkedin.com/in/ayodeji-salam-a49693195/",
           "class": "fab fa-linkedin"
         },
         {
           "name": "email",
-          "url": "mailto:adamisafk@gmail.com",
+          "url": "mailto:salamkayodeji@gmail.com",
           "class": "fa fa-envelope"
         }
       ],
@@ -39,8 +39,8 @@
           "level": "70"
         },
         {
-          "name": "NodeJS",
-          "class": "devicon-nodejs-plain",
+          "name": "Django",
+          "class": "devicon-django-plain",
           "level": "85"
         },
         {
@@ -49,30 +49,18 @@
           "level": "80"
         },
         {
-          "name": "Java",
-          "class": "devicon-java-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "90"
         },
-        {
-          "name": "Ruby",
-          "class": "devicon-ruby-plain",
-          "level": "70"
-        },
-        {
-          "name": "Rails",
-          "class": "devicon-rails-plain",
-          "level": "70"
-        },
+       
+       
         {
           "name": "AWS",
           "class": "devicon-amazonwebservices-original",
           "level": "75"
         },
-        {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "85"
-        },
+      
         {
           "name": "Laravel",
           "class": "devicon-laravel-plain",
@@ -84,13 +72,13 @@
           "level": "60"
         },
         {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
+          "name": "PostGressql",
+          "class": "devicon-postgresql-plain",
           "level": "60"
         },
         {
-          "name": "Redis",
-          "class": "devicon-redis-plain",
+          "name": "Nginx",
+          "class": "devicon-nginx-plain",
           "level": "60"
         },
         {
@@ -106,16 +94,6 @@
         {
           "name": "Linux",
           "class": "devicon-linux-plain",
-          "level": "60"
-        },
-        {
-          "name": "Swift",
-          "class": "devicon-swift-plain",
-          "level": "60"
-        },
-        {
-          "name": "Android",
-          "class": "devicon-android-plain",
           "level": "60"
         }
       ]

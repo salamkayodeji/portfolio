@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/spring";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/ruby";
+import pythonicon from "@iconify/icons-logos/python";
+import djangoicon from "@iconify/icons-logos/django";
+import postgressql from "@iconify/icons-logos/postgresql";
 
 class About extends Component {
   render() {
@@ -13,8 +13,6 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about1 = this.props.resumeBasicInfo.description;
-      var about2 = this.props.resumeBasicInfo.philosophy;
-      var about3 = this.props.resumeBasicInfo.preference;
     }
 
     return (
@@ -33,15 +31,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={pythonicon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={reactIcon}
+                    icon={djangoicon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={postgressql}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -83,12 +81,7 @@ class About extends Component {
                     <br />
                     <br />
                     {about1}
-                    <br />
-                    <br />
-                    {about2}
-                    <br />
-                    <br />
-                    {about3}
+                   
                   </div>
                 </div>
               </div>
