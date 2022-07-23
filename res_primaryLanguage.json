@@ -136,7 +136,39 @@
             "name": "MySql"
           }
         ]
+      },
+      {
+        "title": "PRODUCT AND SERVICES",
+        "startDate": "2022",
+        "description": "",
+        "images": [
+          "images/portfolio/product/p1.png",
+          "images/portfolio/product/p2.png",
+          "images/portfolio/product/p3.png",
+          "images/portfolio/product/p4.png"
+        ],
+        "url": "http://product.coinmac.org/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          }
+        ]
       }
+
     ],
 
    
@@ -146,16 +178,23 @@
         "title": "Software Developer",
         "description": "",
         "responsibilities" : [
-          "Designed and developed a Search engine optimized (SEO) website for the training arm of the company where prospective clients can search for courses, register for courses, give feedback on courses, and also request for proposal on courses they're interested in while the company has admin privileges to create, update, delete courses and advanced email marketing. URL: https://coinmac.org/.",
+          "Created modules that help fix bottlenecks found in the system and improved load time by 20%",
+          "Restful API design patterns",
           "Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.",
-          "Being involved in with larger in-house projects to meet our customer's requirements",
+          "Deployment of web applications with NGINX using Linux",
+          "Using Celery as task queue and RABBITMQ, REDIS as message brokers to execute tasks",
+          "Developed entire frontend and backend modules using Python and Django web frameworks",
+          "Involved in designing user interactive webpages as the front-end part of the web application using various web technologies",
+          "Collaborated with internal teams to convert end user feedback into meaningful and improved solutions which helped improve clients satisfaction",
+          "Improved SEO of the web applications, also added features that collected site visitors’ information and a system for sharing the company’s new products and services with clients through email which improved sales of products and services by 50%",
+          "Consumed APIs while utilising python requests to read numerous JSON reports",
           "Supporting the creation of standardised documentation",
           "Developing skills and understanding of COINMAC's tech estate and the process",
           "Developing, testing and supporting current systems",
-          "Responded to support requests from end users and patiently walked individuals through basic troubleshooting tasks which increased sales of units by 20%.",
-          "Administered, supported and monitored databases by proactively resolving database issues and maintaining servers."
+          "Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.",
+          "API design patterns, API product expertise"
         ],
-        "years": "09.2020 - present",
+        "years": "09.2020 - PRESENT",
         "mainTech": [
           "Serverless"
         ],
@@ -173,10 +212,14 @@
         "title": "INTERN",
         "description": "In a fast-paced and dynamic environment, I worked among a team of interns to deliver a service at the best possible quality to all Tax Payers.",
         "responsibilities": [
+          "Actively resolved technical issues by providing frontline IT support to all users",
           "Registration of Tax payers for TAX IDENTIFICATION NUMBER (TIN)",
           "Collected, update and migrated Tax payers’ information.",
+          "Increased general productivity by training staff to properly utilize enterprise software used within the organization.",
+          "Was the primary point of contact for all customer queries about their Tax Identification number",
           "Explained technical information in clear terms to non-technical individuals to promote better understanding.",
-          "Sorted and organized materials such as physical files, tracking spreadsheets and reports."
+          "Sorted and organized materials such as physical files, tracking spreadsheets and reports.",
+          "Responsible for escalating logged queries to the right department"
         ],
         "years": "08.2018 - 05.2019",
         "mainTech": [
