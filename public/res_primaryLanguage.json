@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi!",
-      "description": "👋 I'm Deji. I'm a Full Stack Software Developer with several years of experience in producing and updating Web applications. Optimized structures and processes to accomplish customer targets and promote company loyalty. Expert in PYTHON programming language",
+      "description": "👋 I'm Deji. I'm a Full Stack Software Developer with several years of experience in developing and updating Web applications. Optimized structures and processes to accomplish customer targets and promote company loyalty. Expert in PYTHON programming language",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -179,7 +179,7 @@
         "description": "",
         "responsibilities" : [
           "Created modules that help fix bottlenecks found in the system and improved load time by 20%",
-          "Restful API design patterns",
+          "Restful API design",
           "Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.",
           "Deployment of web applications with NGINX using Linux",
           "Using Celery as task queue and RABBITMQ, REDIS as message brokers to execute tasks",
@@ -191,20 +191,22 @@
           "Supporting the creation of standardised documentation",
           "Developing skills and understanding of COINMAC's tech estate and the process",
           "Developing, testing and supporting current systems",
-          "Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.",
-          "API design patterns, API product expertise"
+          "Administered, supported and monitored databases by proactively resolving database issues and maintaining servers."
         ],
-        "years": "09.2020 - PRESENT",
+        "years": "09.2018 - PRESENT",
         "mainTech": [
-          "Serverless"
+          "PYTHON",
+          "DJANGO"
         ],
         "technologies": [
-          "Agile Development",
-          "DevOps",
-          "AWS",
           "Django Framework",
           "Python",
-          "Unit Testing"
+          "Unit Testing",
+          "JavaScript",
+          "PostgreSQL",
+          "React JS",
+          "Laravel",
+          "MYSQL"
         ]
       },
       {
@@ -221,7 +223,7 @@
           "Sorted and organized materials such as physical files, tracking spreadsheets and reports.",
           "Responsible for escalating logged queries to the right department"
         ],
-        "years": "08.2018 - 05.2019",
+        "years": "01.2018 - 08.2018",
         "mainTech": [
           ""
         ],
