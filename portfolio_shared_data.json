@@ -24,6 +24,41 @@
     "skills": {
       "icons": [
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostGressql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -39,42 +74,19 @@
           "level": "70"
         },
         {
-          "name": "Django",
-          "class": "devicon-django-plain",
-          "level": "85"
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "70"
         },
         {
           "name": "React",
           "class": "devicon-react-plain",
           "level": "80"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "90"
-        },
-       
-       
-        {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-original",
-          "level": "75"
-        },
-      
+        },             
         {
           "name": "Laravel",
           "class": "devicon-laravel-plain",
           "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "PostGressql",
-          "class": "devicon-postgresql-plain",
-          "level": "60"
         },
         {
           "name": "Nginx",
@@ -82,18 +94,28 @@
           "level": "60"
         },
         {
-          "name": "Docker",
-          "class": "devicon-docker-plain",
-          "level": "60"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
+          "name": "Jquery",
+          "class": "devicon-jquery-plain",
           "level": "60"
         },
         {
           "name": "Linux",
           "class": "devicon-linux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "60"
+        },
+        {
+          "name": "Gitlab",
+          "class": "devicon-gitlab-plain",
+          "level": "60"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
           "level": "60"
         }
       ]

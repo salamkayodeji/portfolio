@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi!",
-      "description": "👋 I'm Deji. I'm a Full Stack Software Developer with several years of experience in developing and updating Web applications. Optimized structures and processes to accomplish customer targets and promote company loyalty. Expert in PYTHON programming language",
+      "description": "👋 I'm Deji. I'm a Skilled software engineer with over 4 years of experience in creating and deploying high-quality, scalable web applications. Proficient in Python and Django web frameworks, with expertise in database management systems and front-end technologies. Familiar with version control systems and containerization tools like Git and Docker. Strong problem-solving skills and ability to work independently in busy environments and also within teams to achieve project goals.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -174,26 +174,58 @@
    
     "experience": [
       {
+        "company": "Quick Check",
+        "title": "Full Stack Developer",
+        "description": "",
+        "responsibilities" : [
+          "Collaborating with the front-end development team to develop user-facing features and ensure seamless integration with the back-end systems.",
+          "Designing and developing efficient and scalable APIs to power the front-end user interface and external integrations.",
+          "Debugging and troubleshooting issues with the back-end systems, including databases, servers, and other infrastructure components.",
+          "Developing and maintaining automated tests to ensure code quality and prevent regressions.",
+          "Documenting technical specifications and creating user manuals to help users navigate the system.",
+          "Continuously learning new technologies and tools to improve the overall performance, scalability, and user experience of the system.",
+          "Collaborating with other teams, such as product management and quality assurance, to ensure that the system meets the business requirements and user needs."
+        ],
+        "years": "12.2022 - PRESENT",
+        "mainTech": [
+          "PYTHON",
+          "DJANGO",
+          "GIT",
+          "DOCKER"
+        ],
+        "technologies": [
+          "Django Framework",
+          "Python",
+          "Unit Testing",
+          "PostgreSQL",
+          "React JS",
+          "MYSQL",
+          "Git",
+          "Docker",
+          "Rabbit mq",
+          "Celery",
+          "Kibana"
+        ]
+      },
+      {
         "company": "COINMAC",
         "title": "Software Developer",
         "description": "",
         "responsibilities" : [
-          "Created modules that help fix bottlenecks found in the system and improved load time by 20%",
-          "Restful API design",
-          "Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.",
-          "Deployment of web applications with NGINX using Linux",
-          "Using Celery as task queue and RABBITMQ, REDIS as message brokers to execute tasks",
-          "Developed entire frontend and backend modules using Python and Django web frameworks",
-          "Involved in designing user interactive webpages as the front-end part of the web application using various web technologies",
-          "Collaborated with internal teams to convert end user feedback into meaningful and improved solutions which helped improve clients satisfaction",
-          "Improved SEO of the web applications, also added features that collected site visitors’ information and a system for sharing the company’s new products and services with clients through email which improved sales of products and services by 50%",
-          "Consumed APIs while utilising python requests to read numerous JSON reports",
-          "Supporting the creation of standardised documentation",
-          "Developing skills and understanding of COINMAC's tech estate and the process",
-          "Developing, testing and supporting current systems",
-          "Administered, supported and monitored databases by proactively resolving database issues and maintaining servers."
+          "Developed and improved software modules to fix bottlenecks in the system, resulting in a 20% improvement in load time.",
+          "Updated old code bases to modern development standards, reducing operating costs and improving functionality.",
+          "Deployment of web applications with NGINX using Linux.",
+          "Using Celery as task queue and RABBITMQ, REDIS as message brokers to execute tasks.",
+          "Developed entire front-end and back-end modules using Python and Django web frameworks.",
+          "Involved in designing user interactive webpages as the front-end part of the web application using various web technologies.",
+          "Collaborated with internal teams to convert end-user feedback into meaningful and improved solutions, which helped improve client satisfaction.",
+          "Improved the SEO of the web applications and added features that collected site visitors' information, resulting in a 50% increase in sales of products and services through email.",
+          "Mentoring junior developers and helping them to develop their skills and knowledge in back-end development.",
+          "Consumed APIs while utilising python requests to read numerous JSON reports.",
+          "Worked with project sponsors to define projects specs, timeline and milestones.",
+          "Integrated a payment gateway into software products."
         ],
-        "years": "09.2018 - PRESENT",
+        "years": "09.2018 - 11.2022",
         "mainTech": [
           "PYTHON",
           "DJANGO"
@@ -206,7 +238,9 @@
           "PostgreSQL",
           "React JS",
           "Laravel",
-          "MYSQL"
+          "MYSQL",
+          "Celery",
+          "Rabbit mq"
         ]
       },
       {
