@@ -3,6 +3,8 @@ import { Icon } from "@iconify/react";
 import pythonicon from "@iconify/icons-logos/python";
 import djangoicon from "@iconify/icons-logos/django";
 import postgressql from "@iconify/icons-logos/postgresql";
+import github from "@iconify/icons-logos/git";
+import docker from "@iconify/icons-logos/docker";
 
 class About extends Component {
   render() {
@@ -42,6 +44,15 @@ class About extends Component {
                     icon={postgressql}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
+                  <Icon
+                    icon={github}
+                    style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={docker}
+                    style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
+                  />
+
                 </span>
               </div>
             </div>
